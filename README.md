@@ -15,3 +15,8 @@ Open [http://localhost:3000/persons](http://localhost:3000/persons) to get perso
 ## Test the API requests
 
 To test this API you can make requests from browser or use the Postman or similar testing software.
+
+## Inspiration
+
+[https://www.youtube.com/watch?v=vjf774RKrLc] (https://www.youtube.com/watch?v=vjf774RKrLc) <br />
+[https://www.youtube.com/watch?v=0JNq46eFuOM] (https://www.youtube.com/watch?v=0JNq46eFuOM)
