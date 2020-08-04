@@ -53,7 +53,6 @@ router.delete('/', async (req, res) => {
   let result = {}
   try {
     const reqJson = req.body
-    console.log(reqJson)
     result.customerSuccess = await deleteCustomer(reqJson.id)
     result.relatedSuccess = await deleteRelatedPersons(reqJson.id)
   }
@@ -109,7 +108,6 @@ async function deleteCustomer(id){
 
 async function deleteRelatedPersons(customer_id) {
   try {
-    console.log(customer_id, ' from deleteRelated')
     await pool.query('delete from person where customer_id = $1', [customer_id])
     return true
   } catch(e) {
