@@ -18,5 +18,5 @@ To test this API you can make requests from browser or use the Postman or simila
 
 ## Inspiration
 
-[https://www.youtube.com/watch?v=vjf774RKrLc] (https://www.youtube.com/watch?v=vjf774RKrLc) <br />
-[https://www.youtube.com/watch?v=0JNq46eFuOM] (https://www.youtube.com/watch?v=0JNq46eFuOM)
+[https://www.youtube.com/watch?v=vjf774RKrLc](https://www.youtube.com/watch?v=vjf774RKrLc) <br />
+[https://www.youtube.com/watch?v=0JNq46eFuOM](https://www.youtube.com/watch?v=0JNq46eFuOM)
